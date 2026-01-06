@@ -3,7 +3,7 @@ This repository contains a collection of Project Management and Budget Tracking 
 
 The trackers are suitable for small to medium-scale projects and help ensure projects are delivered on time, within scope, and within budget.
 ---
-📂 # Included Trackers
+# Included Trackers 📂
 
 - Project Management Tracker
 
@@ -15,7 +15,7 @@ The trackers are suitable for small to medium-scale projects and help ensure pro
 
 - Risk & Issue Tracking Log
 ---
-✨ Key Features
+# Key Features ✨ 
 
 - Task scheduling and progress tracking
 
@@ -27,7 +27,7 @@ The trackers are suitable for small to medium-scale projects and help ensure pro
 
 - Easy-to-understand dashboards and structured data layout
 ---
-🛠 Tools & Technologies
+# Tools & Technologies 🛠 
 
 - Microsoft Excel
 
@@ -37,7 +37,7 @@ The trackers are suitable for small to medium-scale projects and help ensure pro
 
 - Data Validation
 ---
-🎯 # Role Alignment (Project Coordinator)
+# Role Alignment (Project Coordinator) 🎯 
 
 - These tools demonstrate practical experience in:
 
@@ -51,7 +51,7 @@ The trackers are suitable for small to medium-scale projects and help ensure pro
 
 - Status reporting and stakeholder communication
 ---
-📈 Benefits
+# Benefits 📈 
 
 - Improves project visibility and control
 
