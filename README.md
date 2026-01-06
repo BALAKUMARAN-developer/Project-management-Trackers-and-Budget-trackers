@@ -6,15 +6,28 @@ The trackers are suitable for small to medium-scale projects and help ensure pro
 **Included Trackers** 📂
 
 - Project Management Tracker
-  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/tree/main/Task%20managment%20tracker.jpg)
+  **SDLC**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/SDLC.png)
 
 - Task & Activity Tracker
+  **Tracker 1**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/Tracker1.png)
+  **Tracker 2**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/Tracker%202.png)
+  **Tracker 3**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/Tracker3.png)
 
 - Project Budget & Cost Tracker
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/Budget%20tracker.png)
 
 - Resource Allocation Tracker
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/PM%20gantt%20chart.png)
 
 - Risk & Issue Tracking Log
+  **Action/Isuue**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/Action%20Issue%20.png)
+  **R/A/I/D/D**
+  ![image](https://github.com/BALAKUMARAN-developer/Project-management-Trackers-and-Budget-trackers/blob/main/RAIDD%20LOG.png)
 ---
 **Key Features** ✨ 
 
